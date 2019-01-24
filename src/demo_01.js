@@ -1,5 +1,5 @@
 /**
- * 创建类的操作符
+ * 常用操作符试练
  */
 
 import * as rxjs from 'rxjs'
