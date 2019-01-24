@@ -14,3 +14,7 @@ http://reactivex.io/rxjs/manual/overview.html#multicasted-observables
 API 文档
 
 https://rxjs-dev.firebaseapp.com/api
+
+中文文档
+
+https://cn.rx.js.org/class/es6/AsyncSubject.js~AsyncSubject.html
