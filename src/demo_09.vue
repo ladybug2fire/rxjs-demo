@@ -23,8 +23,13 @@
 
 <script>
 /**
- * 通过demo_09.js 运行
+ * 测试 Vue Rx 
  */
+import Vue from 'vue'
+import Rx from 'rxjs/Rx'
+import VueRx from 'vue-rx'
+Vue.use(VueRx, Rx)
+
 import { Observable, interval, fromEvent, merge, empty, timer } from 'rxjs'
 import { ajax } from 'rxjs/ajax'
 import { map, catchError } from 'rxjs/operators'

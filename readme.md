@@ -34,5 +34,9 @@ rx5 文档
 
 https://rxjs-cn.github.io/RxJS-Ultimate-CN/content/operators-and-ajax.html
 
+Vue-rx
+
+https://github.com/vuejs/vue-rx
+
 ## 注意
 使用babel 7 因为vue cli3 也是默认babel 7
