@@ -23,5 +23,9 @@
     "lodash": "^4.17.5",
     "node-fetch": "^2.3.0",
     "rxjs": "^6.3.3"
+  },
+  "dependencies": {
+    "rxjs-compat": "^6.3.3",
+    "vue-rx": "^6.1.0"
   }
 }
