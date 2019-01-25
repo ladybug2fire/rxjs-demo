@@ -1,3 +1,6 @@
+/**
+ * share 共享多播，副作用tap只执行一次
+ */
 import { timer } from 'rxjs'
 import {tap, mapTo, share} from 'rxjs/operators'
 

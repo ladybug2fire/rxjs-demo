@@ -18,3 +18,7 @@ https://rxjs-dev.firebaseapp.com/api
 中文文档
 
 https://cn.rx.js.org/class/es6/AsyncSubject.js~AsyncSubject.html
+
+rx5 文档
+
+https://rxjs-cn.github.io/RxJS-Ultimate-CN/content/operators-and-ajax.html
